@@ -1,0 +1,4 @@
+- homepage with sections (hero page and then stuff about me)
+- navbar
+- scroll left for blog posts? mirror to medium maybe
+- examples of components? component library
